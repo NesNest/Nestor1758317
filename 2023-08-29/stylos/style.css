@@ -1,0 +1,37 @@
+*{
+    background-color: purple;
+    color: aliceblue;
+}
+h1{
+
+    border: 1px solid palevioletred;
+    padding-left: 22px;
+    padding-top: 2px;
+    padding-bottom: 10px;
+}
+p{
+    border: 1px solid yellowgreen;
+    margin-left: 22px;
+    margin-top: 22px;
+    padding-top: 2px;
+    padding-bottom: 10px;
+    height: 20px;
+    width: 45px
+}
+.im1{
+    width: 100px;
+    height: 34em;
+}
+.im2{
+    width: 15%;
+    height: 20%;
+}
+.im3{
+    width: auto;
+    height: auto;
+    
+}
+.im4{
+    width: 70em;
+    height: 14rem;
+}

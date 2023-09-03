@@ -1,0 +1,18 @@
+*{background-color: rgb(7, 62, 67);}
+
+ h1 {
+    background-color: rgb(101, 69, 69);
+    color: black;
+    border-radius: 30%;
+    width: 30%;
+}
+h2{
+    background-color: darkolivegreen
+}
+p {
+    background-color: aqua;
+}
+ .back{
+    background-color: darkgrey;
+    color: rgb(0, 0, 0);
+}

@@ -1,0 +1,19 @@
+*{background-color: darkslategray;}
+
+ h1 {
+    background-color: rgb(163, 13, 205);
+    color: rgb(158, 171, 38);
+    border-radius: 30%;
+    width: 30%;
+}
+h2{
+    background-color: darkolivegreen
+}
+p {
+    background-color: aqua;
+    color: black;
+}
+ .back{
+    background-color: rgb(11, 54, 128);
+    color: aliceblue;
+}
